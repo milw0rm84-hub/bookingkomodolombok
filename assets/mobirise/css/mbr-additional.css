@@ -1532,8 +1532,8 @@ a {
   color: #000000;
 }
 .cid-uYsKurVpD5 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-uYsKurVpD5 .item-subtitle {
@@ -1576,9 +1576,6 @@ a {
 }
 .cid-uYsKurVpD5 .content-head {
   max-width: 800px;
-}
-.cid-uYsKurVpD5 img {
-  filter: grayscale(1);
 }
 .cid-uYsKurVFuM {
   padding-top: 6rem;
